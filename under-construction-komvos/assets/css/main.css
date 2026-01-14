@@ -641,23 +641,10 @@ mark, .mark {
     text-align: center;
 }
 
-.hero__img {
-  /* width: 600px;
-  aspect-ratio: 3362 / 1246;
-  overflow: hidden;
- margin: 0 auto;*/
-
-}
-
-.hero__img img{
-  /*width: 100%;
-  height: 100%;
-  object-fit: cover;*/
-}
 
 .hero__title {
-    font-size: 30px;
-    font-weight: 300;
+    font-size: 32px;
+    font-weight: 600;
     color: #fff;
 }
 
@@ -675,7 +662,7 @@ mark, .mark {
 
 .hero__wrapper {
     position: relative;
-    padding: 120px 0 50px;
+    padding: 64px 0 64px;
     z-index: 99;
     min-height: 100vh;
 }
@@ -688,7 +675,7 @@ mark, .mark {
 @media (min-width: 769px) {
     .hero__wrapper .countdown__module {
         max-width: 800px;
-        margin: 80px auto;
+        margin: 48px auto;
     }
 }
 
@@ -700,13 +687,6 @@ mark, .mark {
             flex-direction: column;
         -ms-flex-pack: justify;
         justify-content: space-between;
-    }
-
-    .hero__icon {
-        font-size: 36px;
-        width: 60px;
-        height: 60px;
-        line-height: 56px;
     }
 }
 
