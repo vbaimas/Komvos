@@ -338,7 +338,7 @@ body {
     line-height: 1.6;
     font-size: 16px;
     font-weight: 400;
-     font-family: "TikTok Sans", sans-serif;
+    font-family: "Roboto Flex", sans-serif;
     color: #fff;
     background-color: #1D1D1F;
 }
@@ -368,7 +368,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
     line-height: 1.4em;
     color: inherit;
-     font-family: "TikTok Sans", sans-serif;
+      font-family: "Roboto Flex", sans-serif;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -427,7 +427,7 @@ blockquote {
     position: relative;
     line-height: 1.4;
     color: #03358f;
-   font-family: "TikTok Sans", sans-serif;
+    font-family: "Roboto Flex", sans-serif;
 }
 
 @media (min-width: 992px) {
@@ -466,7 +466,7 @@ blockquote cite {
     display: block;
     font-size: 16px;
     font-style: normal;
-     font-family: "TikTok Sans", sans-serif;
+  font-family: "Roboto Flex", sans-serif;
     margin-top: 15px;
 }
 
@@ -1189,7 +1189,7 @@ mark, .mark {
 
 .countdown__module span {
     display: block;
-     font-family: "TikTok Sans", sans-serif;
+  font-family: "Roboto Flex", sans-serif;
     font-size: 30px;
     font-weight: 300;
     line-height: 1;
